@@ -1,4 +1,4 @@
-# 🤖 YOLOv5 Object Detection API
+# 🤖 Image_detect_bot using YOLOv5 Object Detection API
 
 A Flask-based REST API that uses YOLOv5 for real-time object detection in images. Upload images and get instant detection results with confidence scores.
 
@@ -40,8 +40,8 @@ A Flask-based REST API that uses YOLOv5 for real-time object detection in images
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/yolov5-object-detection-api.git
-cd yolov5-object-detection-api
+git clone https://github.com/amit-sarkar-svg/image_detect_bot.git
+cd C:\Users\User\image_detect_bot
 ```
 
 2. **Create virtual environment**
